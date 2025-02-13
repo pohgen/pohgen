@@ -47,9 +47,9 @@
 
 ### 🌟 Featured Projects
 
-🔹 **[API for Online Library](https://github.com/VladyslavBon/OnlineCinemaAPI/tree/develop)** – Scalable FastAPI project with payments  
+🔹 **[API for Online Cinema](https://github.com/VladyslavBon/OnlineCinemaAPI/tree/develop)** – Scalable FastAPI project with payments  
 🔹 **[API for Train Station](https://github.com/pohgen/train-station-service)** – RESTful API for train station  
-🔹 **[DRF Library Service](https://github.com/YaroslavBordovoy/drf-library-service/tree/develop)** – High-performance API with DRF & Payment  
+🔹 **[API for Online Library](https://github.com/YaroslavBordovoy/drf-library-service/tree/develop)** – High-performance API with DRF & Payment  
 
 ---
 
