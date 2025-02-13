@@ -20,16 +20,16 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pohgen&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pohgen&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pohgen&layout=compact&theme=dracula)
 
 ---
 
 ### 🌟 Featured Projects
 
-🔹 **[API for Online Library](https://github.com/VladyslavBon/OnlineCinemaAPI/tree/develop)** – Scalable FastAPI project with payments 
-🔹 **[API for Train Station](https://github.com/pohgen/train-station-service)** – RESTfull API for train station 
+🔹 **[API for Online Library](https://github.com/VladyslavBon/OnlineCinemaAPI/tree/develop)** – Scalable FastAPI project with payments
+🔹 **[API for Train Station](https://github.com/pohgen/train-station-service)** – RESTfull API for train station
 🔹 **[https://github.com/YaroslavBordovoy/drf-library-service/tree/develop)** – High-performance API with DRF & Payment  
 
 ---
